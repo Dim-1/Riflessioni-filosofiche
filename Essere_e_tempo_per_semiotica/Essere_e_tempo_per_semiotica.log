@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  13 JUL 2024 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  14 JUL 2024 12:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -103,11 +103,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Here is how much of TeX's memory you used:
  2097 strings out of 476091
  33888 string characters out of 5794081
- 1857330 words of memory out of 5000000
+ 1858330 words of memory out of 5000000
  22515 multiletter control sequences out of 15000+600000
  521556 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,52p,807b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 40i,8n,52p,1066b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips
 /cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t
 s1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/t
@@ -116,7 +116,7 @@ lic/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm120
 0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/te
 xmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/publ
 ic/cm-super/sfti1200.pfb>
-Output written on Essere_e_tempo_per_semiotica.pdf (3 pages, 100627 bytes).
+Output written on Essere_e_tempo_per_semiotica.pdf (3 pages, 102950 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
