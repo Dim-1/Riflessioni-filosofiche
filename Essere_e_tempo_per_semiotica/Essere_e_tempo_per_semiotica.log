@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  17 JUL 2024 22:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.30)  18 JUL 2024 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -107,7 +107,7 @@ Here is how much of TeX's memory you used:
  22517 multiletter control sequences out of 15000+600000
  523018 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,52p,1474b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 40i,8n,52p,1488b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/sha
 re/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/d
 vips/cm-super/cm-super-ts1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sf
@@ -118,7 +118,7 @@ m1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/shar
 e/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/
 public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti
 1200.pfb>
-Output written on Essere_e_tempo_per_semiotica.pdf (9 pages, 183124 bytes).
+Output written on Essere_e_tempo_per_semiotica.pdf (9 pages, 183114 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
