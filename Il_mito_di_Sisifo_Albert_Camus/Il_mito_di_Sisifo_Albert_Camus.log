@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.11.24)  27 NOV 2024 20:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.11.24)  27 NOV 2024 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -93,26 +93,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 20.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Il_mito_di_Sisifo_Alber
-t_Camus.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Il_mito_di_Sisifo_A
+lbert_Camus.aux) ) 
 Here is how much of TeX's memory you used:
  2092 strings out of 476091
  33853 string characters out of 5794080
- 1853330 words of memory out of 5000000
+ 1856330 words of memory out of 5000000
  22512 multiletter control sequences out of 15000+600000
  520535 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,52p,576b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/
-share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/ty
-pe1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/
-sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/s
-hare/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/typ
-e1/public/cm-super/sfrm2074.pfb>
-Output written on Il_mito_di_Sisifo_Albert_Camus.pdf (1 page, 67919 bytes).
+ 40i,8n,52p,796b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
+usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfrm2074.pfb>
+Output written on Il_mito_di_Sisifo_Albert_Camus.pdf (2 pages, 75792 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
